@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SQL LITE</string>
+    <string name="lihatdara">Lihat Data</string>
+    <string name="editdata">Edit Data</string>
+    <string name="datakontak">Data Kontak</string>
+    <string name="namaitem">Nama Item</string>
+    <string name="detailkontak">Detail Kontak</string>
+    <string name="nama">Nama</string>
+    <string name="notel">Nomor</string>
 </resources>
